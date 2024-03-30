@@ -36,4 +36,5 @@ const init = () => {
     });
 }
 
+// calls the initialization function and starts the script
 init();
